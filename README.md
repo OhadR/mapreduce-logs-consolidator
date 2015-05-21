@@ -18,6 +18,8 @@ arg2: base URL of job tracker
 
 Note that in the hadoop task’s logs there are several sections: stdout, stderr and syslog. The script takes all 3 parts, and gathers them.
 
+Another note: this code is dependent on "Beautiful Soup" package. http://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 
 
 
